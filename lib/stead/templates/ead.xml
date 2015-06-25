@@ -15,9 +15,7 @@
       </titlestmt>
     </filedesc>
     <profiledesc>
-      <langusage>
-             <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <langusage>English</langusage>
     </profiledesc>
   </eadheader>
   <archdesc level="collection">
@@ -32,10 +30,7 @@
       </physdesc>
       <unitdate>2015</unitdate>
     </did>
-    <accessrestrict>
-      <head>Access to Collection</head>
-      <p>Collection is open for research; access requires at least 24 hours advance notice.</p>
-    </accessrestrict>
+
     <dsc>
 
     </dsc>

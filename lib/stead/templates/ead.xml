@@ -9,7 +9,7 @@
     <filedesc>
       <titlestmt>
         <titleproper>
-          Guide to the [collection title here]-steady
+          Guide to the [collection title here]-STEADY
         </titleproper>
         <author></author>
       </titlestmt>
@@ -20,8 +20,8 @@
   </eadheader>
   <archdesc level="collection">
     <did>
-      <unittitle>[collection title here]-steady</unittitle>
-      <unitid>RL-99999-steady</unitid>
+      <unittitle>[collection title here]-STEADY</unittitle>
+      <unitid>RL-99999-STEADY</unitid>
       <langmaterial>
         <language langcode="eng"/>
       </langmaterial>
